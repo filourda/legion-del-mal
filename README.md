@@ -3,6 +3,7 @@
 ![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/filourda/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/filourda/legion-del-mal)
 
 
 # 🦹‍♂️ La Legión del Mal
