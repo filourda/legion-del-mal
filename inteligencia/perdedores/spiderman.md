@@ -51,3 +51,24 @@ Los poderes de Spider-Man provienen de la picadura de una araña radiactiva (o g
 
 - Telaraña orgánica: En versiones como la trilogía cinematográfica de Sam Raimi, las glándulas de sus muñecas producen telaraña de forma natural sin necesidad de cartuchos mecánicos.
 - Habilidades de otros Spider-Man: Personajes como Miles Morales añaden poderes únicos como la invisibilidad (camuflaje) y descargas bioeléctricas (picadura venenosa), mientras que Miguel O'Hara cuenta con garras, colmillos venenosos y visión telescópica.
+
+## Debilidades
+Las debilidades de Spider-Man abarcan tanto puntos vulnerables físicos y tecnológicos —como su inmunidad frente al simbionte Venom, su dependencia de los lanzatelarañas y su vulnerabilidad a pesticidas específicos— como limitaciones emocionales derivadas de su estricto código moral.
+
+### Debilidades físicas y biológicas
+
+- Vulnerabilidad a ciertos pesticidas y toxinas: Debido a su fisiología arácnida mutada, compuestos químicos como el cloruro de etilo afectan su sistema nervioso con mucha más rapidez y gravedad que a un humano común.
+- No es invulnerable: Aunque posee una gran resistencia, no tiene piel antibalas ni escudo natural, por lo que puede sufrir heridas graves por armas de fuego, cortes o explosiones si no logra esquivarlos.
+- Anulación del sentido arácnido: Ciertas frecuencias de radio, gases especiales creados por villanos (como el Duende Verde) y los simbiontes como Venom o Carnage son indetectables para su sentido arácnido.
+- Bloqueo psicológico de poderes: En distintas etapas de los cómics y el cine, altos niveles de estrés, duda o culpa han llegado a suprimir temporalmente sus habilidades físicas y su sentido arácnido.
+
+### Limitaciones tecnológicas y de entorno
+
+- Dependencia de los cartuchos de telaraña: En sus versiones clásicas, puede quedarse sin fluido en pleno combate o sufrir daños en sus lanzatelarañas mecánicos, perdiendo su principal herramienta de movilidad.
+- Espacios abiertos sin altura: Su estilo de desplazamiento depende de edificios o estructuras elevadas para balancearse, por lo que su movilidad se ve muy reducida en zonas rurales o despejadas.
+
+### Debilidades emocionales y morales
+
+- Sentido de la responsabilidad y culpa: Su obsesión por salvar a todos y no fallar a nadie lo lleva a asumir riesgos extremos y a ser fácilmente manipulable si un villano amenaza a inocentes.
+- Protección de su entorno civil: El temor a que descubran su identidad y ataquen a sus seres queridos (como Tía May o Mary Jane) es su mayor talón de Aquiles táctico.
+- Contención de fuerza: Contiene constantemente su fuerza física para no matar ni herir de gravedad a sus oponentes, lo que lo pone en desventaja inicial frente a enemigos letales.
