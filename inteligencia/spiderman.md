@@ -26,3 +26,28 @@ Spiderman ha protagonizado muchas películas que se dividen en los siguientes bl
 - Trilogía de Sam Raimi (Tobey Maguire)
 - Bilogía The Amazing Spider-Man (Andrew Garfield)
 - Universo Cinematográfico de Marvel (Tom Holland)
+
+## Poderes
+Los poderes de Spider-Man provienen de la picadura de una araña radiactiva (o genéticamente modificada) que alteró el ADN de Peter Parker, otorgándole capacidades físicas sobrehumanas complementadas por su propio ingenio científico.
+
+### Capacidades físicas sobrehumanas
+
+- Fuerza proporcional de araña: Puede levantar alrededor de 10 toneladas en condiciones normales y superar ese límite bajo situaciones de estrés extremo.
+- Agilidad, reflejos y equilibrio: Posee una flexibilidad, coordinación y velocidad de reacción hasta 40 veces superiores a las de un humano común, permitiéndole esquivar disparos a quemarropa.
+- Resistencia y factor de curación: Su metabolismo acelerado le permite soportar impactos devastadores, resistir la fatiga durante horas y sanar heridas o fracturas en cuestión de días.
+- Trepar muros: Controla la atracción electrostática a nivel molecular en sus manos y pies, lo que le permite adherirse firmemente a casi cualquier superficie sólida, incluso a través de su traje.
+
+### Sentido arácnido
+
+- Alerta temprana: Es un sexto sentido precognitivo que le advierte de peligros inminentes mediante un hormigueo en la base del cráneo.
+- Orientación intuitiva: Le permite reaccionar de forma automática antes de que ocurra una amenaza, orientarse en la oscuridad o detectar si alguien intenta descubrir su identidad secreta.
+
+### Habilidades tecnológicas e intelecto
+
+- Lanzatelarañas mecánicos: Dispositivos de muñeca diseñados por el propio Peter que disparan un fluido sintético de alta resistencia a presión, capaz de formar redes, escudos, paracaídas o lianas para balancearse.
+- Genio científico: Cuenta con una mente brillante en química, física e ingeniería, lo que le permite crear distintos tipos de telarañas (eléctricas, ignífugas, ácidas) y trajes especializados.
+
+### Variantes y poderes adicionales
+
+- Telaraña orgánica: En versiones como la trilogía cinematográfica de Sam Raimi, las glándulas de sus muñecas producen telaraña de forma natural sin necesidad de cartuchos mecánicos.
+- Habilidades de otros Spider-Man: Personajes como Miles Morales añaden poderes únicos como la invisibilidad (camuflaje) y descargas bioeléctricas (picadura venenosa), mientras que Miguel O'Hara cuenta con garras, colmillos venenosos y visión telescópica.
