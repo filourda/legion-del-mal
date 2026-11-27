@@ -20,3 +20,9 @@ Algunos de los enemigos de spiderman son:
 - Antorcha Humana (Johnny Storm): Mejor amigo de Peter dentro de la comunidad superheroica y miembro de los Cuatro Fantásticos, equipo con el que Spider-Man tiene lazos familiares.
 - Iron Man (Tony Stark): Mentor tecnológico y compañero en los Vengadores, especialmente relevante en su etapa cinematográfica del MCU.
 - Doctor Strange (Stephen Strange): Aliado frecuente ante amenazas sobrenaturales o multiversales en Nueva York.
+
+## Películas
+Spiderman ha protagonizado muchas películas que se dividen en los siguientes bloques más importantes y como más éxito de taquilla:
+- Trilogía de Sam Raimi (Tobey Maguire)
+- Bilogía The Amazing Spider-Man (Andrew Garfield)
+- Universo Cinematográfico de Marvel (Tom Holland)
